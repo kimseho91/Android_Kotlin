@@ -8,7 +8,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- 구글 클라우드 플랫폼에서 발급받은 API 키를 여기에 -->
     <!--<meta-data android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyB8Iiw1CZPyRbbv_77fm06aM_6K38tpdKE"/>-->
+        android:value=""/>-->
     <!-- 구글 플레이 서비스 버전을 적는 곳으로 그대로 타이핑 -->
     <!--<meta-data android:name="com.google.android.gms.version"
         android:value="@integer/20.1.03"/>-->
